@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <img alt="gif on cloudinary" src="https://res.cloudinary.com/rodriguescosta/image/upload/v1593454092/readme_logos/check-cep-preview_hjqi4l.gif">
+  <img alt="gif on cloudinary" src="https://res.cloudinary.com/rodriguescosta/image/upload/v1593455482/readme_logos/check-cep-preview_ibfgpr.gif">
 </p>
 
 ## License
